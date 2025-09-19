@@ -35,7 +35,7 @@ public class Account {
 		  
   }
 
-	public void withdraw(int i) {
+	public void withdraw(double amount) {
 		// TODO Auto-generated method stub
 		
 	}
